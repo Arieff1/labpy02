@@ -1,8 +1,8 @@
 # Data Diri
 
-Nama : Zizantara Arzeva Cakra Kahana
+Nama : Muhammad Arief Kurniawan 
 
-NIM : 312410398
+NIM : 312410402
 
 Kelas : TI,24.A.3
 
